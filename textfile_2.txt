@@ -1,7 +1,7 @@
 Something new
 
-<<<<<<< HEAD
+
 I have add tihis text to file
-=======
+
 Added line to test merge
->>>>>>> 26f59540a91c93af5001acec31501e5eee72de0b
+
