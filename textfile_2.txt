@@ -1,4 +1,6 @@
 Something new
 I have add tihis text to file
 Added line to test merge
+User AAA add line in 4 row.
+
 
