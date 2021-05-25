@@ -3,5 +3,5 @@ UserBBB added line in second row
 I have add tihis text to file
 Added line to test merge
 User AAA add line in 4 row.
-User_BBB Was here.
+User_AAA and User_BBB was here :).
 
